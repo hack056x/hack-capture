@@ -72,9 +72,6 @@ This automatically means that the license server is blocking your CDM and that y
 ## Issues
 + DRM playback won't work when the extension is disabled and EME Logger is active. This is caused by my fix for dealing with EME Logger interference (solutions are welcome).
 
-## Demo
-[Widevineproxy2.webm](https://github.com/user-attachments/assets/8f51cee3-50e2-4aa4-b244-afa2d0b2987e)
-
 ## Disclaimer
 + This program is intended solely for educational purposes.
 + Do not use this program to decrypt or access any content for which you do not have the legal rights or explicit permission.
