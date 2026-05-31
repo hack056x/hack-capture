@@ -4,11 +4,11 @@ Un proxy basado en extensiones para los desafíos y mensajes de licencia de Wide
 Modifica el desafío antes de que llegue al reproductor web y recupera las claves de descifrado de la respuesta.
 
 ## Features
-+ User-friendly / GUI-based
-+ Bypasses one-time tokens, hashes, and license wrapping
-+ JavaScript native Widevine implementation
-+ Supports Widevine Device files
-+ Manifest V3 compliant
++ Fácil de usar / Basado en interfaz gráfica de usuario
++ Evita los tokens de un solo uso, los hashes y el encapsulamiento de licencias.
++ Implementación nativa de Widevine en JavaScript
++ Admite archivos de dispositivos Widevine
++ Manifiesto V3 compatible
 
 ## Widevine Devices
 This addon requires a Widevine Device file to work, which is not provided by this project.
