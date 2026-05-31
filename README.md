@@ -1,4 +1,4 @@
-# WidevineProxy2
+# Hack Capture
 An extension-based proxy for Widevine EME challenges and license messages. \
 Modifies the challenge before it reaches the web player and retrieves the decryption keys from the response.
 
