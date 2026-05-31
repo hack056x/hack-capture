@@ -1,6 +1,7 @@
 # Hack Capture
-An extension-based proxy for Widevine EME challenges and license messages. \
-Modifies the challenge before it reaches the web player and retrieves the decryption keys from the response.
+Un proxy basado en extensiones para los desafíos y mensajes de licencia de Widevine EME.
+
+Modifica el desafío antes de que llegue al reproductor web y recupera las claves de descifrado de la respuesta.
 
 ## Features
 + User-friendly / GUI-based
